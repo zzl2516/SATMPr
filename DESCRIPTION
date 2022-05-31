@@ -1,7 +1,7 @@
 Package: STAMPr
 Type: Package
 Title: Implement STAMP Results Using R
-Version: 0.1.0
+Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Zelong",family = "Zhao",role = c("aut"),email = "zzl2516@163.com"),
     person(given = "Tong",family = "Zhou",role = c("aut", "cre"),email = "tongzhou2017@gmail.com")
