@@ -1,0 +1,16 @@
+ID	Group
+A1	Group_A
+A2	Group_A
+A3	Group_A
+A4	Group_A
+A5	Group_A
+B1	Group_B
+B2	Group_B
+B3	Group_B
+B4	Group_B
+B5	Group_B
+C1	Group_C
+C2	Group_C
+C3	Group_C
+C4	Group_C
+C5	Group_C
